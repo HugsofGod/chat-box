@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38c9c292-21e7-4f13-9f53-9c0946e934a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/online chat application.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChatServer.java" afterDir="false" />
-    </list>
+    <list default="true" id="38c9c292-21e7-4f13-9f53-9c0946e934a1" name="Changes" comment="chat box" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,8 +64,17 @@
       <option name="presentableId" value="Default" />
       <updated>1717071202183</updated>
       <workItem from="1717071206856" duration="4111000" />
-      <workItem from="1717631233400" duration="1185000" />
+      <workItem from="1717631233400" duration="1900000" />
     </task>
+    <task id="LOCAL-00001" summary="chat box">
+      <option name="closed" value="true" />
+      <created>1717661604087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717661604087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +82,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="chat box" />
+    <option name="LAST_COMMIT_MESSAGE" value="chat box" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
